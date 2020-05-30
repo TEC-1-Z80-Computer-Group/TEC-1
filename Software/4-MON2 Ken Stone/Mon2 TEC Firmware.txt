@@ -1,0 +1,19 @@
+TEC Firmware!
+
+I've made a little change to fix the keypad layout. Feels more intuitive. Monitor 2 ROM is here:
+
+
+
+The changes to the code are:
+
+Redirecting the NMI address (0066h) to 'KeyRemap' (06E0h - Empty area at the end of the ROM). It is important to pad the ROM with data to keep all the addresses in their correct location.
+
+
+
+
+
+The code is just a lookup table to convert the Key data to a new value. Feel free to change the data at offset 0700h to whatever key organisation you like!
+
+Snake! - 8x8 led matrix and ~4mhz xtal required.
+
+ 

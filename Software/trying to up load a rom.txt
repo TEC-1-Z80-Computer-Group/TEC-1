@@ -1,0 +1,45 @@
+Randall Crook
+January 13 · 
+
+Its together 
+	but this is what I get with it plugged in. 
+	There is also a very faint peeping sound. 
+	Now I am trying to up load a rom. 
+	Any rome 
+		but the TASM.EXE doesnt like 64bit windows 
+		and the z80upload is complaining about missing python modules.
+
+So a couple of questions. 
+
+1. What should I expect when I first plug it in with the emulator on board?
+
+2. What extra python modules do I need to run the z80upload?
+
+3. What is the best rom image to test with, with out having to use TASM to assemble it?
+
+Ben Grimmett Randall Crook 
+	you need to install the driver. 
+	You won't need any dependencies. Once 
+	the driver is installed it should just work. 
+	It will contain mon1b/2 if your soldering is OK. 
+	I'd go over it to find any bridges or dry joints first
+
+Randall Crook Ben Grimmett 
+	Ill look at this tonight. 
+	My first go at SMD soldering so it would not surprise me if I screwed it up. 
+	Really hard to tell with the fine pitched ones if I haven't left bridges, even with a magnifying glass.
+
+Randall Crook 
+	Yeah... I screwed it. 
+	Trying to reflow the fine pitch joints 
+	I pushed to hard and both legs and pads got bent and broken. 
+	Boards now useless. 
+	Stripped the other components except the mega, 
+	will need a desoldering gun to remove it.
+	And to top it off 
+		I put the EPROM back in upside down 
+		and it no longer works either. …See More
+
+Ben Grimmett Randall Crook 
+	pop it in an envelope and send it back. 
+	I'll send back a built version from the salvageable parts

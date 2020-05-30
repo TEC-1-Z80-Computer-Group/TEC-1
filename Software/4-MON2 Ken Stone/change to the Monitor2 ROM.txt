@@ -1,0 +1,60 @@
+Ben Grimmett?Australian Vintage Computer Group
+January 11 · 
+ 
+I made a little change to the Monitor2 ROM to correct the keyboard layout. I think this feels more natural. Details here: https://bennvenn.myshopify.com/pages/eprom-emulator
+
+Should be able to inject this code or similar code into the other monitors to set whatever key layout you prefer.
+
+I might add auto address increment after data entry too...
+7John Hardy and 6 others
+27 Comments
+1 Share
+Like
+Comment
+Share
+Comments
+Bram Prosman
+Bram Prosman Ben Grimmett Do you also have the issue with these keys that they tend to twist a little ?
+Hide or report this
+Like
+ · Reply · 7w
+Ben Grimmett
+Ben Grimmett replied
+ 
+·
+ 1 Reply
+Derek Osborn
+Derek Osborn That does look really good!
+1
+Hide or report this
+Like
+ · Reply · 7w
+Hans Otten
+Hans Otten Interesting!
+Hide or report this
+Like
+ · Reply · 6w
+Andrew Laird
+Andrew Laird JMON already has auto increment after data entry
+Hide or report this
+Like
+ · Reply · 6w
+Jim Robertson
+Jim Robertson replied
+ 
+·
+ 5 Replies
+Stuart Remphrey
+Stuart Remphrey Had thought a bit about calculator-digit layout, thouh was undecided on 0 location and A-F direction. Your layout looks good (DEF is slightly odd whichever way it goes 'round).
+Should the 2nd row (shift?) match?…See More
+1
+Hide or report this
+Like
+ · Reply · 6w
+John Hardy
+John Hardy replied
+ 
+·
+ 10 Replies
+Ian McLean
+Ian McLean I don't think I would like auto-increment prior to being able to see a range of addresses on the JMON monitor on the LCD. I am just OCD enough I know I would be constantly going back with - to check if the last byte I entered was correct ?? Auto increment is already present in JMON as previously mentioned.

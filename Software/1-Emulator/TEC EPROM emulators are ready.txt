@@ -1,0 +1,72 @@
+Ben Grimmett?Australian Vintage Computer Group
+January 3 · 
+ 
+Third time lucky! TEC EPROM emulators are ready. Auto loads Mon1b and Mon2 until another Rom is transferred. USB PC link. Command line or GUI binary transferring. 2732 emulation, with bus pull ups to keep MON2 happy. 
+
+Tested up to 8mhz z80 speed. 
+
+PCB $10 shipped as a letter within Australia. Full Kit it with programmed ARM MCU board, RAM, level translators, discretes, $30 shipped.
+
+Edit: this also allows the TEC to be powered from a USB micro socket
+10John Hardy and 9 others
+27 Comments
+1 Share
+Like
+Comment
+Share
+Comments
+View 8 more comments
+Ben Grimmett
+Ben Grimmett I've got an older model, pre built and tested with ribbon DIP connector. Works fine on the TEC. PM if you're interested
+Hide or report this
+No photo description available.
+Like
+ · Reply · 7w
+Randall Crook
+Randall Crook Showed up today, Thanks Ben Grimmett, Going to be interesting, never done SMD soldering before. ;)
+Hide or report this
+No photo description available.
+4
+Like
+ · Reply · 7w
+Ben Grimmett
+Ben Grimmetthttps://bennvenn.myshopify.com/pages/eprom-emulator
+Hide or report this
+EPROM Emulator
+BENNVENN.MYSHOPIFY.COM
+EPROM Emulator
+EPROM Emulator
+1
+Like
+ · Reply · 7w
+Scott Gregory
+Scott Gregory And done! Most impressed at my SMD skillz. ?? For reference I used paste and my hot air rework station. Be careful of those 0.5 pitch chips. I only had one bridged pin. Cinch to fix with a hot iron, flux, chisel tip and a bit of solder braid or drag method.
+Hide or report this
+No photo description available.
+5
+Like
+ · Reply · 7w
+Ben Grimmett
+Ben Grimmett replied
+ 
+·
+ 1 Reply
+Randall Crook
+Randall Crook Its together but this is what I get with it plugged in. There is also a very faint peeping sound. Now I am trying to up load a rom. Any rome but the TASM.EXE doesnt like 64bit windows and the z80upload is complaining about missing python modules.
+So a…See More
+Hide or report this
+No photo description available.
+Like
+ · Reply · 6w · Edited
+Ben Grimmett
+Ben Grimmett replied
+ 
+·
+ 4 Replies
+Scott Gregory
+Scott Gregory Ok, since I collect TI calculators, I have come across a win32 version of TASM. I have added the link below:
+https://www.ticalc.org/arch.../files/fileinfo/250/25051.html…See More
+Hide or report this
+TASM v3.2 - ticalc.org
+TICALC.ORG
+TASM v3.2 - ticalc.org
